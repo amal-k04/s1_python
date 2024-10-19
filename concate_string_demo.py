@@ -7,4 +7,4 @@ f_name=input("enter your first number:")
 l_name=input("enter you last name:")
 result=f_name +" "+l_name
 print(result)
-print("the sub_string is :",l_name[0:])
+print("the sub_string is :",result[len(f_name):])
