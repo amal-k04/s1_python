@@ -11,7 +11,7 @@ print("The sum of num1 and num2 is:", sum_)
 diff=num_1-num_2
 print("The difference when num2 is subtracted from num1 is:",diff)
 prod=num_1*num_2
-print("The quotient when num1 is divided by num2 is:",prod)
+print("The product of num1 and num2 is:",prod)
 div=num_1/num_2
 print("The quotient when num1 is divided by num2 is:",div)
 mod=num_1%num_2
