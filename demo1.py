@@ -1,5 +1,6 @@
-#print("hello, world!")
-#print("hello,\n world!")
+print("hello, world!")
+print("hello,\n world!")
+
 '''x=5
 y="amal"
 print(x)
