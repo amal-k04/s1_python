@@ -1,7 +1,7 @@
 '''
 Author:Amal k philip
 Date:25-10-2024
-description:compare two numbers
+description:compare two numbers.
 '''
 num_1=int(input("Enter your number:"))
 num_2=int(input("Enter your number:"))
